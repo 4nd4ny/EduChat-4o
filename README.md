@@ -1,6 +1,6 @@
 # EduChat
 
-This project is based on GPT-4 Playground project.
+This project is based on [GPT-4 Playground](https://github.com/Nashex/gpt4-playground) project by [Nashex](https://github.com/Nashex).
 
 This version is designed for educational institutions aiming to provide all their students with free access to the latest versions of OpenAI's artificial intelligence models. The installation on a server is accomplished easily using a single command, enabling quick and efficient implementation of this innovative educational tool.
 
