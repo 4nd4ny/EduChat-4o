@@ -1,0 +1,32 @@
+# Dépendances
+node_modules/
+
+# Fichiers sensibles
+.env
+
+# Fichiers spécifiques à macOS
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Fichiers Next.js de build
+.next/
+
+# Fichiers spécifiques à l'éditeur
+.vscode/
+
+# Fichiers de logs
+auth_lock.json
+auth_log.txt
+logs/
+*.log
+
+# Couverture de tests
+coverage/
+
+# Debug NPM
+npm-debug.log*
+
+# Garder yarn.lock pour la gestion des dépendances
+# yarn.lock
