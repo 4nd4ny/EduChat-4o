@@ -4,7 +4,7 @@ This project is based on [GPT-4 Playground](https://github.com/Nashex/gpt4-playg
 
 This version is designed for educational institutions aiming to provide all their students with free access to the latest versions of OpenAI's artificial intelligence models. The installation on a server is accomplished easily using few simple commands, enabling quick and efficient implementation of this educational tool.
 
-It's my first React/Next/Typscript/Flex projet. Thanks to ChatGPT, I was able to do all this very quickly, in a learning by doing mood.
+It's my first React/Next/Typscript/Flex project. Thanks to ChatGPT, I was able to do all this very quickly, in a learning by doing mood.
 I'm teaching full time in Chamblandes's gymnasium (in Switzerland), so I don't have time to maintain this project and make improvements or bug corrections.
 
 To install this project, you must create a .env file in the root folder of the project (same folder as src), with the following entries:
