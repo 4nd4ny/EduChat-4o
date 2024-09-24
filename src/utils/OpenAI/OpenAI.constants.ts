@@ -11,6 +11,7 @@ export const OpenAIChatModels: Record<string, OpenAIModel> = {
     name: "gpt-4o-mini",
     maxLimit: 16384,
   },
+  /*
   "o1-preview": {
     id: "o1-preview",
     name: "o1-preview",
@@ -21,6 +22,7 @@ export const OpenAIChatModels: Record<string, OpenAIModel> = {
     name: "o1-mini",
     maxLimit: 65536,
   },
+  */
 };
 
 export const defaultConfig = {
